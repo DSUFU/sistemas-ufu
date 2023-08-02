@@ -42,7 +42,18 @@ Compilar ambiente
     make html
 
 
+Ao compilar, uma pasta chamada build será gerada no diretório contendo um arquivo index.html, contendo a documentação.
 
+
+Acesso à Documentação
+********************
+
+Após compilada, a documentação ficará disponível em: https://documentacao-sistemas-ufu.readthedocs.io/en/latest/
+
+Criar Gifs e imagens
+*********************
+
+Para criar GIFs e imagens, utilize a ferramenta Captura Chrome: https://chrome.google.com/webstore/detail/chrome-capture-screenshot/ggaabchcecdbomdcnbahdfddfikjmphe
 
 Para contribuir com este projeto leia os tutoriais:
 
