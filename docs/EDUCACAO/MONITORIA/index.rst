@@ -8,8 +8,8 @@ Módulo Monitoria
 
    :titlesonly:
    
-    coordenacoes
+    coordenacao
+    docente
+    estudante  
     gestao
-    docente  
-    estudante
    

@@ -6,7 +6,7 @@ Documentação dos sistemas da UFU
 --------
 
 .. toctree::
-   :hidden:
+
    :titlesonly:
 
    EDUCACAO/MONITORIA/index
