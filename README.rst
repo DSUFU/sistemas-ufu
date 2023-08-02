@@ -1,9 +1,39 @@
-Template for the Read the Docs tutorial
+Documentações dos sistemas da UFU
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+# Contribuir
 
-Read the tutorial here:
+## Instalar Anaconda
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://docs.conda.io/projects/conda/en/latest/user-guide/install/
+
+## Criar ambiente
+
+- (Importar via interface)[https://docs.anaconda.com/free/navigator/tutorials/manage-environments/#importing-an-environment]
+
+- Importar via console:
+
+```
+conda env create -f conda-environment.yml
+
+```
+
+## Ativar ambiente
+
+```
+conda activate docsUfu
+
+```
+
+## Compilar ambiente
+
+```
+make html
+```
+
+Para contribuir com este projeto leia os tutoriais:
+
+
+- https://docs.readthedocs.io/en/stable/tutorial/
+- https://www.sphinx-doc.org/en/master/
+
