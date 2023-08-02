@@ -20,6 +20,7 @@ Criar ambiente
 - Importar via console:
 
 .. code-block:: bash
+
     conda env create -f conda-environment.yml
 
 
@@ -27,7 +28,8 @@ Ativar ambiente
 **********
 
 
-.. code-block:: 
+.. code-block:: bash
+
     conda activate docsUfu
 
 Compilar ambiente
@@ -35,16 +37,12 @@ Compilar ambiente
 
 
 .. code-block:: bash
+
     make html
 
 
-.. code-block:: python
 
-    import exomagpy.predictExo
-    exomagpy.predictExo.tess()
-    exomagpy.predictExo.kepler()
 
-    
 Para contribuir com este projeto leia os tutoriais:
 
 - https://docs.readthedocs.io/en/stable/tutorial/
