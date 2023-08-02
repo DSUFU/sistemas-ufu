@@ -6,8 +6,9 @@ Módulo Monitoria
 
 .. toctree::
 
-   :titlesonly:
-   
+    :titlesonly:
+    :maxdepth: 3
+    
     coordenacao
     docente
     estudante  
