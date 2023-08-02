@@ -1,13 +1,11 @@
 Módulo Monitoria
 =================
 
+A monitoria segue a `RESOLUÇÃO No 15/2011, DO CONSELHO DE GRADUAÇÃO <http://www.reitoria.ufu.br/Resolucoes/resolucaoCONGRAD-2011-15.pdf>`_
 
-Processo de Monitoria
-+++++++++++++++++++++++++
+A Figura abaixo mostra o processo de monitoria da UFU.
 
-A Figura abaixo mostra o processo de monitoria da UFU
-
-.. figure:: processo_monitoria.png
+.. image:: _static/images/processo_monitoria.png
 
 .. toctree::
 
