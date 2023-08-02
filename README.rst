@@ -15,7 +15,7 @@ Criar ambiente
 **********
 
 
-- `Importar via interface<https://docs.anaconda.com/free/navigator/tutorials/manage-environments/#importing-an-environment>`
+- Importar via interface: https://docs.anaconda.com/free/navigator/tutorials/manage-environments/#importing-an-environment
 
 - Importar via console:
 
