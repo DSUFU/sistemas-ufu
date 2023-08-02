@@ -9,4 +9,4 @@ Documentação dos sistemas da UFU
    :hidden:
    :titlesonly:
 
-   EDUCACAO/MONITORIA
+   EDUCACAO/MONITORIA/index
