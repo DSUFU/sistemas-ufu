@@ -15,7 +15,7 @@ Criar ambiente
 **********
 
 
-- (Importar via interface)[https://docs.anaconda.com/free/navigator/tutorials/manage-environments/#importing-an-environment]
+- `Importar via interface<https://docs.anaconda.com/free/navigator/tutorials/manage-environments/#importing-an-environment>`
 
 - Importar via console:
 
@@ -27,7 +27,7 @@ Ativar ambiente
 **********
 
 
-.. code-block:: bash
+.. code-block:: 
     conda activate docsUfu
 
 Compilar ambiente
@@ -38,6 +38,13 @@ Compilar ambiente
     make html
 
 
+.. code-block:: python
+
+    import exomagpy.predictExo
+    exomagpy.predictExo.tess()
+    exomagpy.predictExo.kepler()
+
+    
 Para contribuir com este projeto leia os tutoriais:
 
 - https://docs.readthedocs.io/en/stable/tutorial/
