@@ -1,4 +1,4 @@
-Módulo MONITORIA
+Módulo Monitoria
 =================
 
 Módulo Monitoria
@@ -7,10 +7,9 @@ Módulo Monitoria
 .. toctree::
 
    :titlesonly:
-   :maxdepth: 4
    
-    Coordenacoes
-    Gestao
-    Docente  
-    Estudante
+    coordenacoes
+    gestao
+    docente  
+    estudante
    
