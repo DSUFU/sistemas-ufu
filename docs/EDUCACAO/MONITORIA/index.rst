@@ -5,6 +5,7 @@ Módulo Monitoria
 Processo de Monitoria
 +++++++++++++++++++++++++
 
+A Figura abaixo mostra o processo de monitoria da UFU
 
 .. figure:: processo_monitoria.png
 
