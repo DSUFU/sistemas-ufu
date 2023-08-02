@@ -1,0 +1,57 @@
+name: docsUfu
+channels:
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - alabaster=0.7.12=pyhd3eb1b0_0
+  - bzip2=1.0.8=h7b6447c_0
+  - ca-certificates=2023.05.30=h06a4308_0
+  - charset-normalizer=2.0.4=pyhd3eb1b0_0
+  - ld_impl_linux-64=2.38=h1181459_1
+  - libffi=3.4.4=h6a678d5_0
+  - libgcc-ng=11.2.0=h1234567_1
+  - libgomp=11.2.0=h1234567_1
+  - libstdcxx-ng=11.2.0=h1234567_1
+  - libuuid=1.41.5=h5eee18b_0
+  - ncurses=6.4=h6a678d5_0
+  - openssl=3.0.9=h7f8727e_0
+  - pycparser=2.21=pyhd3eb1b0_0
+  - python=3.11.4=h955ad1f_0
+  - readline=8.2=h5eee18b_0
+  - snowballstemmer=2.2.0=pyhd3eb1b0_0
+  - sphinxcontrib-applehelp=1.0.2=pyhd3eb1b0_0
+  - sphinxcontrib-devhelp=1.0.2=pyhd3eb1b0_0
+  - sphinxcontrib-htmlhelp=2.0.0=pyhd3eb1b0_0
+  - sphinxcontrib-jsmath=1.0.1=pyhd3eb1b0_0
+  - sphinxcontrib-qthelp=1.0.3=pyhd3eb1b0_0
+  - sphinxcontrib-serializinghtml=1.1.5=pyhd3eb1b0_0
+  - sqlite=3.41.2=h5eee18b_0
+  - tk=8.6.12=h1ccaba5_0
+  - tzdata=2023c=h04d1e81_0
+  - xz=5.4.2=h5eee18b_0
+  - zlib=1.2.13=h5eee18b_0
+  - pip:
+    - babel==2.11.0
+    - brotlipy==0.7.0
+    - certifi==2023.7.22
+    - cffi==1.15.1
+    - colorama==0.4.6
+    - cryptography==41.0.2
+    - docutils==0.18.1
+    - idna==3.4
+    - imagesize==1.4.1
+    - jinja2==3.1.2
+    - markupsafe==2.1.1
+    - packaging==23.0
+    - pip==23.2.1
+    - pygments==2.15.1
+    - pyopenssl==23.2.0
+    - pysocks==1.7.1
+    - pytz==2022.7
+    - requests==2.31.0
+    - setuptools==68.0.0
+    - sphinx==5.0.2
+    - urllib3==1.26.16
+    - wheel==0.38.4
+prefix: /home/diego/anaconda3/envs/docsUfu
