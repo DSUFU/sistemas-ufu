@@ -8,12 +8,13 @@ Contribuir
 Instalar Anaconda
 **********
 
+Para contribuir com o projeto basta configurar o ambiente, criar um branch e fazer um pull request.
+
 
 https://docs.conda.io/projects/conda/en/latest/user-guide/install/
 
 Criar ambiente
 **********
-
 
 - Importar via interface: https://docs.anaconda.com/free/navigator/tutorials/manage-environments/#importing-an-environment
 
