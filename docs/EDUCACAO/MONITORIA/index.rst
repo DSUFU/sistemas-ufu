@@ -1,8 +1,12 @@
 Módulo Monitoria
 =================
 
-Módulo Monitoria
 
+Processo de Monitoria
++++++++++++++++++++++++++
+
+
+.. figure:: processo_monitoria.png
 
 .. toctree::
 
